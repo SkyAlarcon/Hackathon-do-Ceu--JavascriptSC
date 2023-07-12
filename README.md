@@ -35,6 +35,7 @@ O ***Hackathon*** começa no dia **15/Julho/2023 (sábado) às 13h** e termina n
 
 Durante o dia de sábado, às **13h** haverá uma apresentação do tema e desafios e até às **18h** a [Sky](https://www.linkedin.com/in/skyalarcon/) estará disponível para eventuais dúvidas sobre entregas que não forem atendidas por essa documentação e possíveis dificuldades técnicas.
 
+A apresentação do tema será acontecerá ao vivo no YouTube [neste canal](https://www.youtube.com/channel/UCqPTh7L3MRJM30Fzq7bqIFg)! A transmissão começa às **13h** e ficará gravada para consultas posteriores! Contamos com você lá!
 
 
 ## **Como participar**
