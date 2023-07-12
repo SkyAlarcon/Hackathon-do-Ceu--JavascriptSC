@@ -1,4 +1,7 @@
-# Boas vindas ao ***Hackathon* do Céu**
+# Boas vindas ao ***Hackathon* do Céu** de Javascript
+`Este Hackathon de nenhuma forma é vinculado às instituições mencionadas em qualquer parte do documento e/ou repositório.`
+
+`É um projeto criado a partir de ideias da turma para desenvolver novas lógicas, gerar oportunidades de estudos e praticar o que foi visto em aula`
 
 ## **Índice**
 - [Criadora](#criadora)
@@ -51,7 +54,7 @@ Para participar basta seguir os seguintes passos:
 
 5. Crie um `Pull request` para o [repositório original](https://github.com/SkyAlarcon/Hackathon-do-Ceu--JavascriptSC) do ***Hackathon*** DENTRO do [horário limite](#data-e-horário)
 
-O repositório será atualizado com arquivos durante a apresentação do tema do tema e desafios. Os arquivos serão usados pelos participantes para testar seus códigos. Esses arquivos de teste serão acompanhados por um arquivo com a resposta esperada para aquele desafio específico, porém nem todos os desafios terão respostas e cabe ao participante descobrir se sua resposta condiz com a resposta esperada.
+O repositório será atualizado com arquivos durante a apresentação do tema e desafios. Os arquivos serão usados pelos participantes para testar seus códigos. Esses arquivos de teste serão acompanhados por um arquivo com a resposta esperada para aquele desafio específico, porém nem todos os desafios terão respostas e cabe ao participante descobrir se sua resposta condiz com a resposta esperada.
 
 
 ### Regras
