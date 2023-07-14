@@ -34,7 +34,7 @@ O ***Hackathon*** começa no dia **15/Julho/2023 (sábado) às 13h** e termina n
 
 (Lembrando que o último commit/push para o repositório no [Github](https://github.com/) deve ser feito DENTRO do horário pré-estabelecido)
 
-Durante o dia de sábado, às **13h** haverá uma apresentação do tema e desafios e até às **15h** a [Sky](https://www.linkedin.com/in/skyalarcon/) estará disponível para eventuais dúvidas sobre entregas que não forem atendidas por essa documentação e possíveis dificuldades técnicas.
+Durante o dia de sábado, às **13h** haverá uma apresentação do tema e desafios e até às **18h** a [Sky](https://www.linkedin.com/in/skyalarcon/) estará disponível para eventuais dúvidas sobre entregas que não forem atendidas por essa documentação e possíveis dificuldades técnicas.
 
 A apresentação do tema acontecerá ao vivo no YouTube [neste canal](https://www.youtube.com/channel/UCqPTh7L3MRJM30Fzq7bqIFg)! A transmissão começa às **13h** e ficará gravada para consultas posteriores! Contamos com você lá!
 
@@ -83,7 +83,33 @@ Coloque aqui o nome de usuário de todos os integrantes do grupo (Caso você est
 
 
 ## **Tema**
+Um comandante do exército precisa proteger suas terras. Para isso, saber quantas pessoas compõe suas tropas, como estão distribuídas e como treinar o próximos novatos é uma tarefa crucial!
+
+Para fazer as contagem pediu para seus ajudantes anotarem quantas pessoas tem de cada classe de soldado, mas em vez de trazerem uma contagem em números, simplesmente entregaram diversos documentos com letras que representam cada classe de soldado conforme a legenda:
+
+|Classe|Legenda|
+|:-:|:-:|
+|Médicos|M|
+|Espachins|E|
+|Lanceiros|L| 
+|Arqueiros|A| 
+|Defensores|D|
+
+Você foi contactado para facilitar o trabalho de contagem, reunindo todos os documentos feitos pelos ajudantes e gerar as contagens pedidas previamente pelo comandante.
 
 ## **Estrutura dos arquivos**
+- Todos os desafios estarão dentro da pasta 'Desafios' numeradas a partir do 1 de forma crescente indicando aumento da dificuldade da solução exigida.
+
+- Cada pasta de desafio também será nomeada de forma a dar um pequeno resumo do que deve ser feito.
+
+- Dentro da pasta de **Desafio** terá uma pasta chamada **Arquivos** que não deve ser modificada, pois contém as informações básicas a serem processadas pelo seu programa para resolver os desafios.
+
+- Ainda na pasta de cada desafio haverá um arquivo chamado **desafio.js** destinado para a resolução do desafio.
+
+- Cada arquivo **desafio.js** terá um cabeçalho utilizado para importar as informações necessárias para a resolução do desafio. Peço que não mude o cabeçalho se não souber o que está fazendo.
+
+- Você receberá uma string com suas tropas e deve processar a informação para chegar ao resultado esperado.
+
+- **Preste atenção! Novos conceitos e informações podem e serão ser adicionados à medida que os desafios ficam mais difíceis! Leia com calma e, se necessário, anote o que achar relevante!**
 
 # [Voltar para o topo](#)
