@@ -9,7 +9,8 @@
 - [Como participar](#como-participar)
 - [Revisão de código](#revisão-de-código)
 - [Integrantes do grupo](#integrantes-do-grupo)
-
+- [Tema](#tema)
+- [Estrutura dos arquivos](#estrutura-dos-arquivos)
 
 ## **Criadora**
 O ***Hackathon* do Céu** está sendo criado pela [SkyAlarcon](https://github.com/SkyAlarcon) enquanto estuda no bootcamp da [Soul Code](https://soulcode.com/) em parceria com a [Porto Seguro](https://www.portoseguro.com.br/).
@@ -33,7 +34,7 @@ O ***Hackathon*** começa no dia **15/Julho/2023 (sábado) às 13h** e termina n
 
 (Lembrando que o último commit/push para o repositório no [Github](https://github.com/) deve ser feito DENTRO do horário pré-estabelecido)
 
-Durante o dia de sábado, às **13h** haverá uma apresentação do tema e desafios e até às **18h** a [Sky](https://www.linkedin.com/in/skyalarcon/) estará disponível para eventuais dúvidas sobre entregas que não forem atendidas por essa documentação e possíveis dificuldades técnicas.
+Durante o dia de sábado, às **13h** haverá uma apresentação do tema e desafios e até às **15h** a [Sky](https://www.linkedin.com/in/skyalarcon/) estará disponível para eventuais dúvidas sobre entregas que não forem atendidas por essa documentação e possíveis dificuldades técnicas.
 
 A apresentação do tema acontecerá ao vivo no YouTube [neste canal](https://www.youtube.com/channel/UCqPTh7L3MRJM30Fzq7bqIFg)! A transmissão começa às **13h** e ficará gravada para consultas posteriores! Contamos com você lá!
 
@@ -65,6 +66,7 @@ O repositório será atualizado com arquivos durante a apresentação do tema e 
 - Para grupos o nome de usuário do [Github](https://github.com/) de **TODOS** os integrantes deve estar localizado no **FINAL DESTE README**.
 - Para grupos basta uma pessoa criar o `Pull request` para que a entrega seja contabilizada.
 - Não há limite de participantes para grupos.
+- Não modifique o nome das pastas/arquivos ou conteúdo previamente escrito neles. Se necessário, comente as linhas de códigos que já foram escritas e escreva as suas, mas não as apague!
 
 ## **Revisão de código**
 Após o ***Hackaton*** [este repositório](https://github.com/SkyAlarcon/Hackathon-do-Ceu--JavascriptSC) será atualizado com mais arquivos e as respostas esperadas.
@@ -78,5 +80,10 @@ Coloque aqui o nome de usuário de todos os integrantes do grupo (Caso você est
 
 - [Integrante 1](link do perfil)
 - [Integrante 2](link do perfil)
+
+
+## **Tema**
+
+## **Estrutura dos arquivos**
 
 # [Voltar para o topo](#)
