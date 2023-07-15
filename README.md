@@ -38,6 +38,8 @@ Durante o dia de sábado, às **13h** haverá uma apresentação do tema e desaf
 
 A apresentação do tema acontecerá ao vivo no YouTube [neste canal](https://www.youtube.com/channel/UCqPTh7L3MRJM30Fzq7bqIFg)! A transmissão começa às **13h** e ficará gravada para consultas posteriores! Contamos com você lá!
 
+[Apresentação do Hackathon no YouTube](https://www.youtube.com/watch?v=YhaRrTaGvI0&ab_channel=SkyAlarcon)
+
 
 ## **Como participar**
 - [Passo a passo](#passo-a-passo)
